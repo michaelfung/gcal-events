@@ -1,3 +1,9 @@
+tmp/
+cache/
+local/
+secrets/
+.vstags
+
 !Build/
 .last_cover_stats
 /META.yml
