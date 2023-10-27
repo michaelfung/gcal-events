@@ -52,7 +52,4 @@ sub reset($self) {
     $self->{cache} = {};
 }
 
-sub save($self) {}
-sub restore($self) {}
-
 1;
